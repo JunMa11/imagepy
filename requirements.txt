@@ -13,3 +13,4 @@ xlrd
 xlwt
 markdown
 moderngl
+scikit-learn
